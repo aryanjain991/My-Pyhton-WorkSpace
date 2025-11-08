@@ -16,8 +16,6 @@
 # print("Total Digits:", count)
 
 
-
-
 num = int(input("Pls Enter A Number: "))
 count = 0
 digit_sum = 0

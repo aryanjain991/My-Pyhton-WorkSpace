@@ -14,10 +14,14 @@
 # else:
 #     print(f"Not Defined")
 
+
+'''                       Using char.isalpha()                                '''
+
+
 char = input("Please Enter a Single Alphabet Character: ")
 
 # Check if the input is a single alphabet letter
-if char.isalpha() :
+if char.isalpha() and len(char) == 1:
     vowels = "aeiouAEIOU"
     
     if char in vowels:

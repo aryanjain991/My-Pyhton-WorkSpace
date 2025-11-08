@@ -19,5 +19,5 @@ while (cnt == 0):
 cnt = 0
 while(cnt < 9):
     cnt += 1
-    if cnt :
+    if cnt == 5:
         print(cnt)

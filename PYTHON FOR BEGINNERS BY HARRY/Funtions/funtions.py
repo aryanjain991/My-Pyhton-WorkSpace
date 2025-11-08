@@ -124,7 +124,7 @@ print(sum(10))'''
 
 def printDetails(**details):
     for key,value in details.items():
-        print(f"{key} is {value}", end= ' ')
+        print(f"{key} is {value}")
 
 
 printDetails(id = 100, name = "Aryan", price = 10000)
