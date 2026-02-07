@@ -1,0 +1,1 @@
+print("\"python uses \\n for new line\"")
